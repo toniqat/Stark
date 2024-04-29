@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nUBUkKYEWeMnoh1caqrbjdG6acNc03y2rL7GlgBkXAdiR8MQAQSlPq8R2I9wWGOL0uA6jtEjZBwVAE9tZRmntg==",
+  "dgSpecHash": "eH6ZYm/FiyJnX06jKaVouX8JtqcUPxNNidsXql6Ir6vNiEIX2I3lyq5lTTAfi+FeENsFvdM0zqz0OR0J3WGFzQ==",
   "success": true,
-  "projectFilePath": "c:\\Stark\\Stark.csproj",
+  "projectFilePath": "C:\\Stark\\Stark.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\limes\\.nuget\\packages\\avalonia\\11.0.10\\avalonia.11.0.10.nupkg.sha512",
     "C:\\Users\\limes\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.0.2023020321\\avalonia.angle.windows.natives.2.1.0.2023020321.nupkg.sha512",

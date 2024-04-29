@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Stark\\Stark.csproj": {}
+    "C:\\Stark\\Stark.csproj": {}
   },
   "projects": {
-    "c:\\Stark\\Stark.csproj": {
+    "C:\\Stark\\Stark.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Stark\\Stark.csproj",
+        "projectUniqueName": "C:\\Stark\\Stark.csproj",
         "projectName": "Stark",
-        "projectPath": "c:\\Stark\\Stark.csproj",
+        "projectPath": "C:\\Stark\\Stark.csproj",
         "packagesPath": "C:\\Users\\limes\\.nuget\\packages\\",
-        "outputPath": "c:\\Stark\\obj\\",
+        "outputPath": "C:\\Stark\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
